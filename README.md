@@ -14,6 +14,9 @@ Data flows through three layers:
 | **Silver** | Transformed, cleaned, and standardized data. Includes but not limited to deduplication, type casting, null handling, and values normalization. |
 | **Gold**   | Business-ready semantic model structured as a star schema, built as SQL views.                                                                 |
 
+### Data Flow
+![Data Flow|697](assets/data_flow.png)
+
 ## Data Model
 ![Data Model](assets/data_model.png)
 
