@@ -1,7 +1,7 @@
 # SQL Data Warehouse
 
 ## Project Overview
-This is a data warehouse built on Microsoft SQL Server using the **Medallion architecture** (Bronze → Silver → Gold). The data warehouse integrates data from two (2) source systems: CRM and ERP, and delivers a analytical, business-ready data model, structured as a star schema.
+This is a data warehouse built on Microsoft SQL Server using the **Medallion architecture** (Bronze → Silver → Gold). The data warehouse integrates data from two (2) source systems: CRM and ERP, and delivers a business-ready data model, structured as a star schema.
 
 ## Data Architecture
 ![Data Architecture](assets/data_architecture.png)
