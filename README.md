@@ -7,10 +7,12 @@ This project . Data sources
 The purpose of this project is to demonstrate the following:
 - 
 
-## Data Architecture
-
-
 ## Repository Structure
+
+## Data Architecture
+![Data Architecture](assets/data_architecture.png)
+
+
 
 
 
